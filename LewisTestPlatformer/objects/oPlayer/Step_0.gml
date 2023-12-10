@@ -1,6 +1,6 @@
 //Check Inputs
-var _keyleft = keyboard_check(vk_left);
-var _keyright = keyboard_check(vk_right);
+var _keyleft = keyboard_check(vk_left) || keyboard_check(ord("A"));
+var _keyright = keyboard_check(vk_right) || keyboard_check(ord("D"));
 var _keyjump = keyboard_check_pressed(vk_space);
 
 //Define controls

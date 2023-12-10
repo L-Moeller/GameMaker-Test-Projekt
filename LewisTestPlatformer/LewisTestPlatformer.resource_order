@@ -19,9 +19,11 @@
   "ResourceOrderSettings": [
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
     {"name":"sGun","order":4,"path":"sprites/sGun/sGun.yy",},
+    {"name":"oBullet","order":3,"path":"objects/oBullet/oBullet.yy",},
     {"name":"sPlayerJ","order":3,"path":"sprites/sPlayerJ/sPlayerJ.yy",},
     {"name":"sPlayerR","order":2,"path":"sprites/sPlayerR/sPlayerR.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"oGun","order":2,"path":"objects/oGun/oGun.yy",},
+    {"name":"sBullet","order":5,"path":"sprites/sBullet/sBullet.yy",},
   ],
 }
