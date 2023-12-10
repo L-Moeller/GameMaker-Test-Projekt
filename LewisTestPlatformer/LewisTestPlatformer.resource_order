@@ -1,0 +1,27 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Animationskurven","order":12,"path":"folders/Animationskurven.yy",},
+    {"name":"Erweiterungen","order":14,"path":"folders/Erweiterungen.yy",},
+    {"name":"Notizen","order":13,"path":"folders/Notizen.yy",},
+    {"name":"Objekte","order":9,"path":"folders/Objekte.yy",},
+    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"Pfade","order":4,"path":"folders/Pfade.yy",},
+    {"name":"Räume","order":10,"path":"folders/Räume.yy",},
+    {"name":"Schriftarten","order":7,"path":"folders/Schriftarten.yy",},
+    {"name":"Sequenzen","order":11,"path":"folders/Sequenzen.yy",},
+    {"name":"Shader","order":6,"path":"folders/Shader.yy",},
+    {"name":"Skripte","order":5,"path":"folders/Skripte.yy",},
+    {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Tilesets","order":2,"path":"folders/Tilesets.yy",},
+    {"name":"Zeitlinien","order":8,"path":"folders/Zeitlinien.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
+    {"name":"sGun","order":4,"path":"sprites/sGun/sGun.yy",},
+    {"name":"sPlayerJ","order":3,"path":"sprites/sPlayerJ/sPlayerJ.yy",},
+    {"name":"sPlayerR","order":2,"path":"sprites/sPlayerR/sPlayerR.yy",},
+    {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"oGun","order":2,"path":"objects/oGun/oGun.yy",},
+  ],
+}
